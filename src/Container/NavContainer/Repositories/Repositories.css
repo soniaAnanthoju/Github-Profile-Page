@@ -1,0 +1,39 @@
+.repository {
+    padding-right: 32px;
+}
+
+.repository-header {
+    padding: 16px 0px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.repository-header-left {
+    display: inline;
+}
+
+.repository-header-right {
+    display: inline;
+}
+
+.find-repository {
+    background-color: white;
+    font-size: 14px;
+    width: 578px;
+    padding: 5px 12px;
+    border: 1px solid #dddddd;
+    border-radius: 6px;
+    line-height: 20px;
+    margin-right: 16px;
+}
+
+.repository-header button {
+    color: #24292F;
+    padding: 5px 12px;
+    background-color: #F6F8FA;
+    border: 1px solid #dddddd;
+    border-radius: 6px;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 4px;
+}

@@ -1,0 +1,23 @@
+.navigation {
+    font-size: 14px;
+    padding: 0px 32px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: #24292F;
+    margin-top: 32px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.navigation-element {
+    padding: 10.5px;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #24292F;
+}
+
+span a.active {
+    font-weight: 500;
+    border-bottom: 1.9px solid #FF7F50;
+}

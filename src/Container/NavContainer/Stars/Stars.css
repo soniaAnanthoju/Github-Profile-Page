@@ -1,0 +1,47 @@
+.star {
+    padding-right: 32px;
+}
+
+.stars {
+    margin-top: 34px;
+    margin-bottom: 14px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.stars-header {
+    padding: 16px 0px;
+    border-bottom: 1px solid #dddddd;
+}
+
+
+.star-header-left {
+    display: inline;
+}
+
+.star-header-right {
+    display: inline;
+}
+
+.search-stars {
+    background-color: white;
+    font-size: 14px;
+    width: 441px;
+    padding: 5px 16px;
+    border: 1px solid #dddddd;
+    border-radius: 6px;
+    line-height: 20px;
+    margin-right: 16px;
+}
+
+.star-header button {
+    color: #24292F;
+    padding: 5px 12px;
+    background-color: #F6F8FA;
+    border: 1px solid #dddddd;
+    border-radius: 6px;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 4px;
+}

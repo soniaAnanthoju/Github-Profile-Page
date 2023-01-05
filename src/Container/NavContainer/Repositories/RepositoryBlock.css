@@ -1,0 +1,39 @@
+.repository-block {
+    padding: 24px 0px;
+    border-bottom: 1px solid #dddddd;
+    color: #57606A;
+}
+
+.repository-block-linkName {
+    font-size: 20px;
+    font-weight: 600;
+    padding-right: 5px;
+}
+
+.repository-block-linkName a {
+    text-decoration: none;
+    color: #0969DA;
+}
+
+.repository-block-public {
+    font-size: 12px;
+    font-weight: 500;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    padding: 0px 7px;
+    margin-left: 4px;
+    margin-bottom: 4px;
+}
+
+.repository-block-content {
+    font-size: 14px;
+    margin: 8px 0px 16px;
+}
+
+.repository-block-details {
+    font-size: 12px;
+}
+
+.repository-block-technology {
+    margin-right: 16px;
+}

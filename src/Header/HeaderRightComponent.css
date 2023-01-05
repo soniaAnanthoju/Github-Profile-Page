@@ -1,0 +1,25 @@
+.header-right-container {
+    flex: 4.5;
+}
+
+.header-elements {
+    padding: 8px;
+}
+
+.sign-up {
+    border: 1px Solid #FFFFFF;
+    border-radius: 5px;
+    background-color: #24292F;
+    padding: 4px 8px;
+    color: #FFFFFF;
+    margin-right: 0px;
+}
+
+input {
+    width: 212px;
+    height: 20px;
+    border: 1px solid #778899;
+    border-radius: 5px;
+    padding: 8px 12px;
+    background-color: #24292F;
+}

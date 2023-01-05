@@ -1,0 +1,57 @@
+.left-container {
+    flex: 1;
+    position: relative;
+    bottom: 60px;
+    padding: 30px;
+    color: #24292F;
+}
+
+.avatar {
+    width: 296px;
+    height: 296px;
+    border-radius: 50%;
+}
+
+.avatar-profile {
+    padding: 16px 0px;
+}
+
+.avatar-name {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.avatar-login {
+    font-size: 20px;
+    color: #57606A;
+    font-weight: 50;
+}
+
+.follow-button {
+    color: #24292F;
+    background-color: #F6F8FA;
+    padding: 5px 16px;
+    border: 1px solid #dddddd;
+    width: 100%;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.followers-following {
+    color: #57606A;
+    font-size: 14px;
+    margin: 16px 16px 16px 0px;
+}
+
+.location {
+    font-size: 14px;
+    color: #24292F;
+}
+
+.block {
+    font-size: 14px;
+    color: #57606A;
+    margin: 8px 0px;
+}

@@ -1,0 +1,9 @@
+.header-left-container {
+    flex: 9;
+}
+
+.header-elements {
+    padding: 8px;
+    margin: 0px 5px;
+    vertical-align: sub;
+}

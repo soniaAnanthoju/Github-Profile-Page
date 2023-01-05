@@ -1,0 +1,13 @@
+.graph {
+    border: 1px solid #dddddd;
+}
+
+.graph-block {
+    height: 9px;
+    width: 9px;
+    background-color: #eeeeee;
+    border: 1px solid #dddddd;
+    border-radius: 1.5px;
+    display: inline-block;
+    margin: 1.5px;
+}
