@@ -7,7 +7,7 @@ function Overview() {
 
     const overviewRepositoryData = [
         {
-            linkName: "kalyansai99.github.io",
+            linkName: "github.io",
             link: "https://github.com/kalyansai99/kalyansai99.github.io",
             content: " ",
             technology: " "
